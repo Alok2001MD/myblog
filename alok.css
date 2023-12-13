@@ -209,6 +209,7 @@ form{
     color: red;
     justify-content: center;
     align-items: center;
+    font-family: cursive;
 }
 form button{
     background-color: red;
