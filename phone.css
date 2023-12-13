@@ -158,7 +158,11 @@
     position: relative;
     left: 121px;
 }
+
 footer{
     margin:1px;
     font-size:10px;
+}
+.btn{
+    width: 302px;
 }
