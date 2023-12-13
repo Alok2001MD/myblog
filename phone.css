@@ -1,11 +1,9 @@
 .article{
-    width: 362px;footer{
-        margin:1px;
-        font-size:10px;
-    }
+    width: 362px;
     font-size: 27px;
     position: relative;
     top: 60px;
+    font-family: cursive;
 }
 .article3{
     font-size: 25px;
