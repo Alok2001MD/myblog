@@ -89,7 +89,7 @@ ul li a:hover{
     font-size: 50px;
     position: relative;
     bottom: 230px;;
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family: 'Times New Roman', Times, serif;
     animation: Alok  linear infinite; 
 }
 .article3::after{
@@ -115,7 +115,7 @@ ul li a:hover{
     font-size: 25px;
     position: relative;
     top:-200px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
 }
 .find{
     color: rgb(235, 12, 12);
@@ -163,7 +163,7 @@ ul li a:hover{
     border-radius: 20px;
     text-shadow: 3px blue;
     left: 7px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: 'Times New Roman', Times, serif;
    
 }
 footer{
@@ -209,7 +209,7 @@ form{
     color: red;
     justify-content: center;
     align-items: center;
-    font-family: cursive;
+  font-family: 'Times New Roman', Times, serif;
 }
 form button{
     background-color: red;
@@ -240,7 +240,7 @@ form button:hover{
     top: 40px;
     color: white;
     font-size: 30px;
-    font-family: serif;
+    font-family: 'Times New Roman', Times, serif;
     align-items: center;
     justify-content: center;
 }
@@ -261,7 +261,7 @@ form button:hover{
     align-items: center;
     justify-content: center;
     color: red;
-    font-family:cursive;
+    font-family:'Times New Roman', Times, serif;
 }
 .skil{
     position: relative;
@@ -271,7 +271,7 @@ form button:hover{
     font-size: 25px;
     left :518px;
     bottom: 83px;
-    font-family: cursive;
+    font-family: 'Times New Roman', Times, serif;
     
 
     
