@@ -45,10 +45,10 @@
     content:"";
     position: absolute;
     height: 100%;
-    width: 50%;
+    width: 69%;
     border-left:1px solid #212428;
     left:0px;
-    animation: typing 3s steps(1000) infinite;
+    animation: typing 4s steps(1000) infinite;
     background: #212428;
 }
 .find{
