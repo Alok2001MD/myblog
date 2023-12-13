@@ -12,8 +12,9 @@
     width: 339px;
 }
 .articlep{
+    left: -4px;
     font-size: 18px;
-    /* position: relative; */
+    position: relative;
     top:68px;
 }
 .logo img{
