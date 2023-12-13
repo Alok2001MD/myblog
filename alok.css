@@ -163,7 +163,7 @@ ul li a:hover{
     border-radius: 20px;
     text-shadow: 3px blue;
     left: 7px;
-    font-family: cursive;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    
 }
 footer{
@@ -239,7 +239,7 @@ form button:hover{
     top: 40px;
     color: white;
     font-size: 30px;
-    font-family: cursive;
+    font-family: serif;
     align-items: center;
     justify-content: center;
 }
