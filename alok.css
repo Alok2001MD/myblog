@@ -245,7 +245,7 @@ form button:hover{
     justify-content: center;
 }
 .abouts:hover{
-    transform: scale(1.1);
+    transform: scale(0.94);
 }
 .para p{
     margin-left: 20px;
@@ -289,8 +289,8 @@ form button:hover{
 }
 .logo4 img{
     position: relative;
-    top: -58px;
-    margin-left: 349px;
+    top: -64px;
+    margin-left: 607px;
     width: 60px;
     height: 60px;
     padding-left: 2px;
