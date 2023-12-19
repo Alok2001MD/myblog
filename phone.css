@@ -42,7 +42,7 @@
     left: 11px;
 }
 .article3::after{
-    content:"";
+    /* content:"";
     position: absolute;
     height: 100%;
     width: 60% ;
@@ -50,6 +50,7 @@
     left:0px;
     animation: typing 3s steps(1000) infinite;
     background: #212428;
+} */
 }
 .find{
     position: relative;
