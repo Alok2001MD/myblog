@@ -100,8 +100,8 @@ ul li a:hover{
     border-left:1px solid #35373b;
     left:0px;
     /* animation: typing 3s steps(1000) infinite; */
-    background: #212428;
-} */
+    /* background: #212428; */
+ 
 /* @keyframes typing {
     100%{
         left:36%;
