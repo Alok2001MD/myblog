@@ -90,24 +90,24 @@ ul li a:hover{
     position: relative;
     bottom: 230px;;
     font-family: 'Times New Roman', Times, serif;
-    animation: Alok  linear infinite; 
+    /* animation: Alok  linear infinite;  */
 }
-.article3::after{
+/* .article3::after{
     content:"";
     position: absolute;
     height: 100%;
     width: 31%;
     border-left:1px solid #35373b;
     left:0px;
-    animation: typing 3s steps(1000) infinite;
+    /* animation: typing 3s steps(1000) infinite; */
     background: #212428;
-}
-@keyframes typing {
+} */
+/* @keyframes typing {
     100%{
         left:36%;
         margin: 0 -33px 0 33px;
     }
-}
+} */
 
 .articlep {
     margin-left: 28px;
