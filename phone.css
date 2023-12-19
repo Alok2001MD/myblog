@@ -45,7 +45,7 @@
     content:"";
     position: absolute;
     height: 100%;
-    width: 49%;
+    width: 400px;
     border-left:1px solid #212428;
     left:0px;
     animation: typing 3s steps(1000) infinite;
